@@ -1,0 +1,6 @@
+admin,admin123,admin
+admin,admin123,admin
+admin,admin123,admin
+umar,umar123,user
+umar,umar1@2,user
+bazal,bazal,user
